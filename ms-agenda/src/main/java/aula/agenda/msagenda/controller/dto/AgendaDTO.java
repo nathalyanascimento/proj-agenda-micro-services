@@ -1,4 +1,5 @@
-package aula.agenda.msagenda.dto;
+package aula.agenda.msagenda.controller.dto;
+
 
 import aula.agenda.msagenda.model.Agenda;
 

@@ -1,5 +1,6 @@
 package aula.agenda.msagenda.model;
 
+
 import javax.persistence.*;
 import java.time.LocalDateTime;
 

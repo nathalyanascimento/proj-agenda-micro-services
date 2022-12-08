@@ -1,0 +1,19 @@
+server:
+  port: 9090
+spring:
+  profiles:
+    active: native
+  cloud:
+    config:
+      server:
+        native:
+          search-locations: C:/Users/Granter/Downloads/proj-agenda-micro-services-15/proj-config/arquivos-configuracao
+
+
+
+
+
+
+
+
+
